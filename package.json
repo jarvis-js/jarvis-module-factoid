@@ -1,0 +1,19 @@
+{
+  "name": "jarvis-module-factoid",
+  "version": "0.1.0",
+  "description": "Factoid module for Jarvis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexwhitman/jarvis-module-factoid.git"
+  },
+  "keywords": [
+    "jarvis",
+    "factoid"
+  ],
+  "author": "Alex Whitman <alex@alexwhitman.com>",
+  "license": "BSD"
+}
